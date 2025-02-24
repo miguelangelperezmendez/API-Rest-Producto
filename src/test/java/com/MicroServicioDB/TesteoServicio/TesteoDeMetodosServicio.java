@@ -1,6 +1,6 @@
-package com.MicroServicioDB.BibliotecaDePruebasUnitarias;
+package com.MicroServicioDB.TesteoServicio;
 
-public class TestClases {
+public class TesteoDeMetodosServicio {
     
     //AQUI ES DONDE VAMOS A REALIZAR LAS PRUEBAS UNITARIAS
 
