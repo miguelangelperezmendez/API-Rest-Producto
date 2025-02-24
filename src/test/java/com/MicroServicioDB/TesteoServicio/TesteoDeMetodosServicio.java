@@ -3,9 +3,34 @@ package com.MicroServicioDB.TesteoServicio;
 public class TesteoDeMetodosServicio {
     
     //AQUI ES DONDE VAMOS A REALIZAR LAS PRUEBAS UNITARIAS
+    
+    /* 
+    @Mock
+    private ProductoRespository repository;
+    
+    @InjectcMock
+    private ProductoServicio producto;
 
-    public static void main(String[] args) {
-        System.out.println("Hola pruebas unitarias");
+    @BeforeEach
+    void init(){
+        MockitoAnnotations.openMocks(this); // Esto indica que las anotaciones se estan habilitando para poder utilizarlas
     }
+
+
+
+    @Test
+    public void listAllTest(){
+
+        //GIVE
+
+
+        //WHEN
+        when (repository.findAll()).thenReturn()
+
+        //THEN
+
+
+
+    }  */
 
 }
